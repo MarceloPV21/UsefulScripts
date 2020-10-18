@@ -13,6 +13,7 @@ def qrcode_gen(link):
 
     img = qr.make_image(fill='black', back_color='white')
     img.save('qrcode.png')
+    print('QrCode saved !')
 
 if __name__ == "__main__":
     
