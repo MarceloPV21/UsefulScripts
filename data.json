@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Subaru",
+    "syllable": "su-ba-ru",
+    "meaning": "car",
+    "phraseWithWord": "Subaru is a beautiful car.",
+    "partOfSpeech": "Subaru is a beatutiful",
+    "resource": "http://dummyimage.com/191x100.png/dddddd/000000"
+  }, 
+  {
+    "name": "Toyota",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/167x100.png/ff4444/ffffff"
+  }, 
+  {
+    "name": "Toyota",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+  }, 
+  {
+    "name": "Chevrolet",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/238x100.png/cc0000/ffffff"
+  }, 
+  {
+    "name": "Buick",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/208x100.png/cc0000/ffffff"
+  }, 
+  {
+    "name": "GMC",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/221x100.png/dddddd/000000"
+  }, 
+  {
+    "name": "Chevrolet",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/241x100.png/ff4444/ffffff"
+  }, 
+  {
+    "name": "Audi",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/123x100.png/ff4444/ffffff"
+  }, 
+  {
+    "name": "Mercedes-Benz",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/134x100.png/cc0000/ffffff"
+  }, 
+  {
+    "name": "Maybach",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/163x100.png/cc0000/ffffff"
+  }, 
+  {
+    "name": "Mitsubishi",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/109x100.png/dddddd/000000"
+  }, 
+  {
+    "name": "Jeep",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/128x100.png/cc0000/ffffff"
+  }, 
+  {
+    "name": "Acura",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/236x100.png/dddddd/000000"
+  }, 
+  {
+    "name": "Chevrolet",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/244x100.png/5fa2dd/ffffff"
+  }, 
+  {
+    "name": "Kia",
+    "syllable": null,
+    "meaning": null,
+    "phraseWithWord": null,
+    "partOfSpeech": null,
+    "resource": "http://dummyimage.com/226x100.png/dddddd/000000"
+  }]
